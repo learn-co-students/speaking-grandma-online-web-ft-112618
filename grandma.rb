@@ -1,7 +1,9 @@
 # Write a speak_to_grandma method.
 speak_to_grandma = "whats good g"
 
-if speak_to_grandma == ".upcase" 
+if speak_to_grandma == "whats good g"
+  puts "HUH?! SPEAK UP, SONNY"
+
 
 
   a, she should respond with
