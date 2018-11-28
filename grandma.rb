@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-speak_to_grandma = "HUH?! SPEAK UP, SONNY"
+
 
 
   a, she should respond with
